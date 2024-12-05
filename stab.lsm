@@ -1,0 +1,21 @@
+Begin4
+Title:          stab
+Version:        1.3.2
+Entered-date:   2023-12-06
+Description:    STAB is a new active probing tool for locating thin links on
+                a network path. A thin link is a link with less available
+                bandwidth than all links preceding it on the path. The last
+                thin link on the path is the link with the minimum available
+                bandwidth or tight link. STAB combines the concept of
+                "self-induced congestion", the probing technique of "packet
+                tailgating", and special probing trains called "chirps" to
+                efficiently locate the thin links.
+Keywords:       IPv4, IPv6, STAB
+Author:         vinay@rice.edu (Vinay Ribeiro)
+Maintained-by:  dreibh@iem.uni-due.de (Thomas Dreibholz)
+Primary-site:   https://packages.nntb.no/software/stab
+                379 kB stab-1.3.2.tar.gz
+Original-site:  http://www.spin.rice.edu/Software/STAB/
+Platforms:      Linux, FreeBSD
+Copying-policy: Open Source
+End
