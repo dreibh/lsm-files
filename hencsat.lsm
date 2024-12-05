@@ -1,0 +1,21 @@
+Begin4
+Title:          hencsat
+Version:        1.1.9
+Entered-date:   2023-12-06
+Description:    HENCSAT investigates the benefits of combining H.265 video
+                encoding with torrent transmission and multi-path transport.
+                Goal is to optimise communication services -- particularly
+                also using satellite communication -- for the communication
+                with unmanned aerial vehicles (UAV) and vehicle convoys in
+                remote areas.
+                This package contains the GPL-licensed Open Source parts of
+                the HENCSAT test bench.
+Keywords:       HENCSAT Project, Testbed
+Author:         dreibh@simula.no (Thomas Dreibholz)
+Maintained-by:  dreibh@simula.no (Thomas Dreibholz)
+Primary-site:   https://www.researchgate.net/project/ESA-HENCSAT
+                27560 kB download/hencsat-1.1.9.tar.xz
+Original-site:  https://www.researchgate.net/project/ESA-HENCSAT
+Platforms:      Linux
+Copying-policy: GPL-3+
+End
