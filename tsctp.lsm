@@ -1,7 +1,7 @@
 Begin4
 Title:          tsctp
-Version:        0.8.0
-Entered-date:   2024-12-03
+Version:        0.8.1
+Entered-date:   2024-12-13
 Description:    TSCTP is an SCTP test tool. Its purpose is to perform basic
                 SCTP functionality tests to check implementations
                 interoperability and to verify that the SCTP stack is
@@ -10,7 +10,7 @@ Keywords:       Network, SCTP, Test
 Author:         tuexen@fh-muenster.de (Michael Tüxen)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/tsctp
-                130 kB download/tsctp-0.8.0.tar.xz
+                131 kB download/tsctp-0.8.1.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/tsctp
 Platforms:      Linux, FreeBSD, MacOS, Solaris
 Copying-policy: BSD-3-clause

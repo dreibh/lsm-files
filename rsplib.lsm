@@ -1,7 +1,7 @@
 Begin4
 Title:          rsplib
-Version:        3.4.8
-Entered-date:   2024-04-11
+Version:        3.5.0
+Entered-date:   2024-12-13
 Description:    RSPLIB is the Open Source implementation of the IETF Reliable
                 Server Pooling (RSerPool) architecture, a novel framework for
                 pool and session management.
@@ -21,7 +21,7 @@ Keywords:       Reliable Server Pooling, RSerPool, High Availability,
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/rserpool
-                1024 kB download/rsplib-3.4.8.tar.xz
+                1036 kB download/rsplib-3.5.0.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/rserpool
 Platforms:      Linux, FreeBSD, MacOS, Solaris
 Copying-policy: GPL-3+

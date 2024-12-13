@@ -1,7 +1,7 @@
 Begin4
 Title:          dynmhs
-Version:        0.0.0
-Entered-date:   2024-11-13
+Version:        0.1.0
+Entered-date:   2024-12-13
 Description:    DynMHS dynamically sets up IP routing rules, to allow using
                 multiple network connections simultaneously. That is, for
                 each relevant network interface, a separate routing table
@@ -17,7 +17,7 @@ Keywords:       IPv4, IPv6, Multi-Homing, Routing Table, Routing Rules
 Author:         dreibh@simula.no (Thomas Dreibholz)
 Maintained-by:  dreibh@simula.no (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/dynmhs
-                116 kB download/dynmhs-0.0.0.tar.xz
+                117 kB download/dynmhs-0.1.0.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/dynmhs
 Platforms:      Linux
 Copying-policy: GPL-3+
