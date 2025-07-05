@@ -1,7 +1,7 @@
 Begin4
 Title:          fractgen
-Version:        3.0.3
-Entered-date:   2025-05-12
+Version:        3.0.5
+Entered-date:   2025-07-05
 Description:    FractGen is a simple Qt-based fractal generator program for
                 Mandelbrot fractals. The image size is only limited by
                 virtual memory. It is possible to zoom into images. Image
@@ -14,7 +14,7 @@ Keywords:       Fractal Graphics, Mandelbrot, Calculation, Mathematics
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/fractalgenerator
-                333 kB download/fractgen-3.0.3.tar.xz
+                334 kB download/fractgen-3.0.5.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/fractalgenerator
 Platforms:      Linux, FreeBSD, MacOS, Solaris
 Copying-policy: GPL-3+
