@@ -1,7 +1,7 @@
 Begin4
 Title:          build-tools
-Version:        0.0.0
-Entered-date:   2024-12-13
+Version:        0.1.2
+Entered-date:   2025-07-09
 Description:    Build Tool is a tool to help creating and maintaining
                 package builds for Debian/Ubuntu, Fedora, FreeBSD and
                 other systems. It performs the following tasks:
@@ -13,7 +13,7 @@ Keywords:       Built Tools
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/build-tools
-                133 kB download/td-build-tools-0.0.0.tar.xz
+                136 kB download/td-build-tools-0.1.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/build-tools
 Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
