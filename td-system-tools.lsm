@@ -1,27 +1,29 @@
 Begin4
 Title:          system-tools
-Version:        2.5.4
-Entered-date:   2026-05-06
-Description:    This package contains programs for printing basic system
-                information and for system maintenance.
-                System-Info displays basic status information about the
-                system: hostname, uptime, CPU, memory statistics, disk
-                space statistics, SSH public key hashes, and networking
-                information. Furthermore, it can be configured to show
-                one or more banners (for example,  a project name).
-                System-Info can be configured to be automatically run when
-                logging in, providing the user an up-to-date overview of
-                the system.
-                System-Maintenance runs basic system maintenance tasks:
-                trying to repair broken package management, updating the
-                package management databases, installing all available
-                updates, checking for old kernels and removing them, trim
-                SSD or unmap unused storage.
-Keywords:       System Information
+Version:        2.5.5
+Entered-date:   2026-05-07
+Description:    System-Tools is a collection of utilities for system management and
+                maintenance.
+                The package includes:
+                - System-Info: Displays system status (CPU, memory, disk, network)
+                  and configurable login banners.
+                - System-Maintenance: Automates package updates, old kernel removal,
+                  and storage cleanup (e.g., SSD trimming).
+                - Reset-Machine-ID: Resets machine IDs, hostnames, and SSH keys for
+                  cloned virtual machines.
+                - X.509-Tools: Utilities for viewing, verifying, and converting X.509
+                  certificates, and testing TLS connections.
+                - Automation tools: Try-Hard (command retry with backoff), Random-Sleep,
+                  Text-Block (stream editing), and Print-UTF8.
+                - Security tools: Fingerprint-SSH-Keys.
+                The utilities are suitable for non-interactive use in shell scripts and
+                feature native internationalization support via GNU gettext.
+Keywords:       System Information, System Administration, System Maintenance,
+                X.509, SSH, GRUB, Linux, FreeBSD
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/system-tools
-                71 kB download/system-tools-1.0.0~alpha1.1.tar.xz
+                1013 kB download/td-system-tools-2.5.5.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/system-tools
 Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
