@@ -1,7 +1,7 @@
 Begin4
 Title:          system-tools
-Version:        2.6.1
-Entered-date:   2026-05-09
+Version:        2.6.2
+Entered-date:   2026-05-17
 Description:    System-Tools is a collection of utilities for system
                 management and maintenance.
                 The package includes:
@@ -35,7 +35,7 @@ Keywords:       System Information, System Administration, System Maintenance,
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/system-tools
-                1030 kB download/td-system-tools-2.6.1.tar.xz
+                1031 kB download/td-td-system-tools-2.6.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/system-tools
 Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
