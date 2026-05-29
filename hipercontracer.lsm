@@ -1,7 +1,7 @@
 Begin4
 Title:          hipercontracer
-Version:        2.2.1
-Entered-date:   2026-05-28
+Version:        2.2.2
+Entered-date:   2026-05-29
 Description:    High-Performance Connectivity Tracer (HiPerConTracer) is a
                 Ping/Traceroute measurement framework. HiPerConTracer refers
                 to the core measurement tool, which performs regular Ping
@@ -45,7 +45,7 @@ Keywords:       Ping, Traceroute, Connectivity, Measurements
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/hipercontracer
-                2503 kB download/hipercontracer-2.2.1.tar.xz
+                2504 kB download/hipercontracer-2.2.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/hipercontracer
 Platforms:      Linux
 Copying-policy: GPL-3+
