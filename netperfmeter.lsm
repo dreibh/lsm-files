@@ -15,6 +15,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/netperfmeter
                 1938 kB download/netperfmeter-2.0.4.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/netperfmeter
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
 Copying-policy: GPL-3+
 End

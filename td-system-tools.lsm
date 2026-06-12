@@ -37,6 +37,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/system-tools
                 2801 kB download/td-td-td-td-td-td-system-tools-2.7.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/system-tools
-Platforms:      Linux, FreeBSD
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
 Copying-policy: GPL-3+
 End

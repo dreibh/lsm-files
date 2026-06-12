@@ -12,6 +12,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/tsctp
                 291 kB download/tsctp-0.8.5.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/tsctp
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD
 Copying-policy: BSD-3-clause
 End

@@ -13,6 +13,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/bibtexconv
                 363 kB download/bibtexconv-2.2.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/bibtexconv
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
 Copying-policy: GPL-3+
 End

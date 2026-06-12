@@ -17,6 +17,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/fractalgenerator
                 360 kB download/fractgen-3.0.11.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/fractalgenerator
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
 Copying-policy: GPL-3+
 End

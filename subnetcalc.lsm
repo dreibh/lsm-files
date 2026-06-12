@@ -19,6 +19,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/subnetcalc
                 150 kB download/subnetcalc-2.7.1.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/subnetcalc
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
 Copying-policy: GPL-3+
 End
