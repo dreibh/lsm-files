@@ -12,6 +12,6 @@ Maintained-by:  dreibh@simula.no (Thomas Dreibholz)
 Primary-site:   https://packages.nntb.no/software/neat-stuff
                 48282 kB neat-stuff-1.2.1.tar.xz
 Original-site:  https://www.neat-project.org
-Platforms:      Linux
+Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
 End

@@ -23,6 +23,6 @@ Maintained-by:  dreibh@simula.no (Thomas Dreibholz)
 Primary-site:   https://packages.nntb.no/software/libneat
                 502 kB libneat-1.0.7.tar.xz
 Original-site:  https://www.neat-project.org
-Platforms:      Linux
+Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
 End

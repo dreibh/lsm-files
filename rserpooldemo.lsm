@@ -11,6 +11,6 @@ Maintained-by:  dreibh@simula.no (Thomas Dreibholz)
 Primary-site:   https://packages.nntb.no/software/rserpooldemo
                 13437 kB rserpooldemo-3.2.2.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/rserpool/
-Platforms:      Linux
+Platforms:      Linux, FreeBSD
 Copying-policy: GPL-3+
 End

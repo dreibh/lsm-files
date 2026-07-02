@@ -23,6 +23,6 @@ Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/rserpool
                 1177 kB download/rsplib-3.5.10.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/rserpool
-Platforms:      Linux, FreeBSD, MacOS, Solaris
+Platforms:      Linux, FreeBSD, NetBSD, MacOS, Solaris
 Copying-policy: GPL-3+
 End
