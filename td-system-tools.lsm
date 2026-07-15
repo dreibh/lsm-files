@@ -1,7 +1,7 @@
 Begin4
 Title:          system-tools
-Version:        2.7.8
-Entered-date:   2026-07-11
+Version:        2.7.9
+Entered-date:   2026-07-15
 Description:    System-Tools is a collection of utilities for system
                 management and maintenance.
                 The package includes:
@@ -31,12 +31,12 @@ Description:    System-Tools is a collection of utilities for system
                 shell scripts and feature native internationalization
                 support via GNU gettext.
 Keywords:       System Information, System Administration, System Maintenance,
-                X.509, SSH, GRUB, Linux, FreeBSD
+                X.509, SSH, GRUB, Linux, FreeBSD, NetBSD, OpenBSD, Solaris
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Primary-site:   https://www.nntb.no/~dreibh/system-tools
-                2813 kB download/td-system-tools-2.7.8.tar.xz
+                2814 kB download/td-system-tools-2.7.9.tar.xz
 Original-site:  https://www.nntb.no/~dreibh/system-tools
-Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, Solaris, MacOS
 Copying-policy: GPL-3+
 End
