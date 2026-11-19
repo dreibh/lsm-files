@@ -3,18 +3,19 @@ Title:          netperfmeter
 Version:        2.0.15
 Entered-date:   2026-11-19
 Description:    NetPerfMeter is a network performance meter for the UDP,
-                TCP, MPTCP, SCTP and DCCP transport protocols over IPv4 and
-                IPv6. It simultaneously transmits bidirectional flows to an
-                endpoint and measures the resulting flow bandwidths and QoS.
-                The results are written as vector and scalar files. The vector
-                files can e.g. be used to create plots of the results.
-Keywords:       Network Performance, QoS, IPv4, IPv6, TCP, MPTCP, SCTP, UDP,
-                DCCP.
+                TCP, MPTCP, SCTP, DCCP and QUIC transport protocols over
+                IPv4 and IPv6. It simultaneously transmits bidirectional
+                flows to an endpoint and measures the resulting flow
+                bandwidths and QoS. The results are written as vector
+                and scalar files. The vector files can e.g. be used to
+                create plots of the results.
+Keywords:       Network Performance, QoS, IPv4, IPv6, TCP, MPTCP, SCTP,
+                UDP, DCCP, QUIC
 Author:         thomas.dreibholz@gmail.com (Thomas Dreibholz)
 Maintained-by:  thomas.dreibholz@gmail.com (Thomas Dreibholz)
-Primary-site:   https://www.nntb.no/~dreibh/netperfmeter
+Primary-site:   https://www.nntb.no/~dreibh/netperfmeter/
                 2014 kB download/netperfmeter-2.0.15.tar.xz
-Original-site:  https://www.nntb.no/~dreibh/netperfmeter
-Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, MacOS
+Original-site:  https://www.nntb.no/~dreibh/netperfmeter/
+Platforms:      Linux, FreeBSD, NetBSD, OpenBSD, Solaris, GNU/Hurd, MacOS
 Copying-policy: GPL-3+
 End
